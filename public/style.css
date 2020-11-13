@@ -1,0 +1,46 @@
+
+
+body{
+    text-align: center;
+    background: rgb(165, 196, 253); 
+}
+
+
+
+img{
+    width: 429px;
+    margin-top: 20px;
+}
+
+input{
+    border: 1px solid #000000;
+    background: #fbfbfb;
+    font-size: 20px;
+    font-family: Roboto;
+    padding: 10px;
+    margin: 4px;
+
+}
+
+button{
+    border: 1px solid #000000;
+    background: #d8d8d8;
+    font-size: 20px;
+    font-family: Roboto;
+    padding: 12px;
+    margin: 4px;
+
+}
+
+.result{
+    padding: 10px;
+    border: 1px solid #d8d8d8;
+    margin-left: 70px;
+    margin-right: 70px;
+    width: auto;
+    background-color: #fbfbfb;
+    font-family: Roboto;
+    font-size: x-large;
+    font-weight: bold;
+    
+}
