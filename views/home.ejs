@@ -1,8 +1,8 @@
 <%- include('header') %>
 
 <form method="GET" action="/cotacao">
-    <input name="cotacao" placeholder="Cotação dolar" value="<%= cotacao %>"><br>
-    <input name="quantidade" placeholder="Quant. Dolares"><br>
+    <input name="cotacao" placeholder="Cotação dolar" value="<%= cotacao %>" required=""><br>
+    <input name="quantidade" placeholder="Quant. Dolares" required=""><br>
     <button>Converter</button>
 </form>
 
