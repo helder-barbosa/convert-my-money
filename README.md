@@ -1,7 +1,5 @@
 # convert-my-money
 
-# PalpiteBox
-
 [![HitCount](https://hits.dwyl.com/helder-barbosa/helder-barbosa/convert-my-money.svg)](https://hits.dwyl.com/helder-barbosa/helder-barbosa/convert-my-money)
 
 
