@@ -5,7 +5,7 @@
 
 ## Início
 
-Convert USD to BRL. Real time API from BCB.
+Converte U$ Dolar para R$ Real. Cotação atualizada pelo Banco Central.
 
 ### Pré-requisitos:
 
